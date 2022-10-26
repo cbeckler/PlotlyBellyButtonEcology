@@ -1,2 +1,2 @@
 # PlotlyBellyButtonEcology
-using plotly and js to visualize bioscience data
+graphing bioscience data with javascript and plotly
